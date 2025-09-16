@@ -62,12 +62,12 @@ import Privacy from "../../components/Privacy";
 export const headerIntroData = {
   title: {
     jp: "こんにちは、熊谷 峻也です",
-    en: "Hi, I'm  Kumagai Shunya",
+    en: "Hi, I'm  Yosimoto Tomoya",
   },
   subtitle: "Fullstack Developer ",
   description: {
-    jp: "私は熊谷 峻也です。キャリアを向上させ、刺激的なプロジェクトに参加することを目標とするフルスタック開発者です。ここでは、私の仕事とWeb開発への情熱を紹介します。共にデジタルソリューションを創造し、未来を創りましょう！",
-    en: "I'm  Kumagai Shunya, a fullstack developer with the goal of advancing my career and participating in inspiring projects. Here I present my work and my passion for web development. Let's shape digital solutions together and shape the future!",
+    jp: "私は吉本 智哉です。キャリアを向上させ、刺激的なプロジェクトに参加することを目標とするフルスタック開発者です。ここでは、私の仕事とWeb開発への情熱を紹介します。共にデジタルソリューションを創造し、未来を創りましょう！",
+    en: "I'm  Yosimoto Tomoya, a fullstack developer with the goal of advancing my career and participating in inspiring projects. Here I present my work and my passion for web development. Let's shape digital solutions together and shape the future!",
   },
   buttons: [
     {
