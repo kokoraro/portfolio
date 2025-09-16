@@ -61,7 +61,7 @@ import Privacy from "../../components/Privacy";
 
 export const headerIntroData = {
   title: {
-    jp: "こんにちは、熊谷 峻也です",
+    jp: "こんにちは、吉本 智哉です",
     en: "Hi, I'm  Yosimoto Tomoya",
   },
   subtitle: "Fullstack Developer ",
